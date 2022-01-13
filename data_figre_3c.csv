@@ -1,0 +1,342 @@
+Ct,Sample,Nasal,Location,Notes,ACH,Type
+28.266666666666666,R21,20.400000000000002,Near_Aerosol,Sitting,0,Aerosol
+29.066666666666666,R39,25.96666666666667,Near_Aerosol,Sitting,0,Aerosol
+30.8,R55,22.5,Near_Aerosol,Sitting,0,Aerosol
+40,R65,23.666666666666668,Near_Aerosol,Sitting,0,Aerosol
+27.5,R127,22.6,Near_Aerosol,Sitting,0,Aerosol
+24.5,R147,23.833333333333332,Near_Aerosol,Sitting,0,Aerosol
+32.63333333333333,R157,24.65,Near_Aerosol,Sitting,0,Aerosol
+33.05,R167,17.5,Near_Aerosol,Sitting,0,Aerosol
+40,R428,40,Near_Aerosol,Sitting,0,Aerosol
+40,R439,40,Near_Aerosol,Standing,0,Aerosol
+25.066666666666666,R501,40,Near_Aerosol,Sitting,0,Aerosol
+32.53333333333334,R805,17,Near_Aerosol,Sitting,0,Aerosol
+28.233333333333334,R815,19.700000000000003,Near_Aerosol,Standing,0,Aerosol
+34.15,R825,21.8,Near_Aerosol,Sitting,0,Aerosol
+40,R863,23.633333333333336,Near_Aerosol,Sitting,0,Aerosol
+40,R929,26.3,Near_Aerosol,Sitting,0,Aerosol
+31.55,H20,16.200000000000003,Near_Aerosol,Sitting,0,Aerosol
+30.2,H100,15.700000000000001,Near_Aerosol,Sitting,0,Aerosol
+29.25,H197,20.95,Near_Aerosol,Sitting,0,Aerosol
+26.3,H278,22.9,Near_Aerosol,Sitting,0,Aerosol
+29.85,H335,28.3,Near_Aerosol,Sitting,0,Aerosol
+29.85,H365,31.15,Near_Aerosol,Sitting,0,Aerosol
+29.7,H445,28.85,Near_Aerosol,Sitting,0,Aerosol
+40,H530,40,Near_Aerosol,Sitting,0,Aerosol
+40,H541,40,Near_Aerosol,Standing,0,Aerosol
+40,H576,40,Near_Aerosol,Sitting,0,Aerosol
+40,H619,40,Near_Aerosol,Sitting,0,Aerosol
+40,H630,40,Near_Aerosol,Standing,0,Aerosol
+40,H704,40,Near_Aerosol,Sitting,0,Aerosol
+31.46666666666667,H754,40,Near_Aerosol,Sitting,0,Aerosol
+29.049999999999997,H843,13.35,Near_Aerosol,Sitting,0,Aerosol
+29.6,H854,20.55,Near_Aerosol,Standing,0,Aerosol
+30.7,H889,21.4,Near_Aerosol,Sitting,0,Aerosol
+32.45,H927,25.9,Near_Aerosol,Sitting,0,Aerosol
+40,H1025,29.8,Near_Aerosol,Sitting,0,Aerosol
+40,H1106,27.13333333333333,Near_Aerosol,Sitting,0,Aerosol
+40,H1117,26.75,Near_Aerosol,Standing,0,Aerosol
+40,H1163,27.5,Near_Aerosol,Sitting,0,Aerosol
+40,H1190,28.6,Near_Aerosol,Sitting,0,Aerosol
+40,H1282,29.5,Near_Aerosol,Sitting,0,Aerosol
+31.566666666666666,R22,20.400000000000002,Far_Aerosol,Sitting,0,Aerosol
+40,R40,25.96666666666667,Far_Aerosol,Sitting,0,Aerosol
+30.46666666666667,R56,22.5,Far_Aerosol,Sitting,0,Aerosol
+32.43333333333333,R66,23.666666666666668,Far_Aerosol,Sitting,0,Aerosol
+26.233333333333334,R118,23.5,Far_Aerosol,Sitting,0,Aerosol
+40,R128,22.6,Far_Aerosol,Sitting,0,Aerosol
+25.7,R148,23.833333333333332,Far_Aerosol,Sitting,0,Aerosol
+27.25,R158,24.65,Far_Aerosol,Sitting,0,Aerosol
+30.1,R168,17.5,Far_Aerosol,Sitting,0,Aerosol
+40,R440,40,Far_Aerosol,Standing,0,Aerosol
+40,R473,40,Far_Aerosol,Standing,0,Aerosol
+40,R484,40,Far_Aerosol,Sitting,0,Aerosol
+40,R593,23.46666666666667,Far_Aerosol,Sitting,0,Aerosol
+32.4,R604,21.76666666666667,Far_Aerosol,Standing,0,Aerosol
+27.333333333333332,R626,16.833333333333332,Far_Aerosol,Sitting,0,Aerosol
+40,R649,26.53333333333333,Far_Aerosol,Sitting,0,Aerosol
+32.06666666666667,R806,17,Far_Aerosol,Sitting,0,Aerosol
+31.2,R816,19.700000000000003,Far_Aerosol,Standing,0,Aerosol
+33.36666666666667,R826,21.8,Far_Aerosol,Sitting,0,Aerosol
+40,R864,23.633333333333336,Far_Aerosol,Sitting,0,Aerosol
+30.65,H21,16.200000000000003,Far_Aerosol,Sitting,0,Aerosol
+31,H67,15.25,Far_Aerosol,Sitting,0,Aerosol
+29.4,H101,15.700000000000001,Far_Aerosol,Sitting,0,Aerosol
+29.700000000000003,H198,20.95,Far_Aerosol,Sitting,0,Aerosol
+28.25,H279,22.9,Far_Aerosol,Sitting,0,Aerosol
+30,H336,28.3,Far_Aerosol,Sitting,0,Aerosol
+30.200000000000003,H366,31.15,Far_Aerosol,Sitting,0,Aerosol
+40,H446,28.85,Far_Aerosol,Sitting,0,Aerosol
+40,H531,40,Far_Aerosol,Sitting,0,Aerosol
+40,H543,40,Far_Aerosol,Standing,0,Aerosol
+40,H577,40,Far_Aerosol,Sitting,0,Aerosol
+40,H620,40,Far_Aerosol,Sitting,0,Aerosol
+40,H632,40,Far_Aerosol,Standing,0,Aerosol
+40,H705,40,Far_Aerosol,Sitting,0,Aerosol
+40,H755,40,Far_Aerosol,Sitting,0,Aerosol
+32.95,H844,13.35,Far_Aerosol,Sitting,0,Aerosol
+31.85,H855,20.55,Far_Aerosol,Standing,0,Aerosol
+31.95,H890,21.4,Far_Aerosol,Sitting,0,Aerosol
+40,H928,25.9,Far_Aerosol,Sitting,0,Aerosol
+31.6,H1026,29.8,Far_Aerosol,Sitting,0,Aerosol
+40,H1107,27.13333333333333,Far_Aerosol,Sitting,0,Aerosol
+40,H1118,26.75,Far_Aerosol,Standing,0,Aerosol
+40,H1164,27.5,Far_Aerosol,Sitting,0,Aerosol
+40,H1191,28.6,Far_Aerosol,Sitting,0,Aerosol
+40,H1283,29.5,Far_Aerosol,Sitting,0,Aerosol
+27.733333333333334,R15,20.400000000000002,Computer,Sitting,0,High_toch_surface
+26.46666666666667,R23,20.400000000000002,Computer,Sitting,0,High_toch_surface
+25.333333333333332,R33,25.96666666666667,Computer,Sitting,0,High_toch_surface
+25.46666666666667,R49,22.5,Computer,Sitting,0,High_toch_surface
+26.7,R59,23.666666666666668,Computer,Sitting,0,High_toch_surface
+25.766666666666666,R111,23.5,Computer,Sitting,0,High_toch_surface
+26.2,R121,22.6,Computer,Sitting,0,High_toch_surface
+29.75,R141,23.833333333333332,Computer,Sitting,0,High_toch_surface
+29.866666666666664,R151,24.65,Computer,Sitting,0,High_toch_surface
+40,R161,17.5,Computer,Sitting,0,High_toch_surface
+24.5,R347,40,Computer,Sitting,0,High_toch_surface
+40,R422,40,Computer,Sitting,0,High_toch_surface
+40,R433,40,Computer,Standing,0,High_toch_surface
+40,R455,40,Computer,Sitting,0,High_toch_surface
+40,R466,40,Computer,Standing,0,High_toch_surface
+40,R477,40,Computer,Sitting,0,High_toch_surface
+40,R495,40,Computer,Sitting,0,High_toch_surface
+40,R597,21.76666666666667,Computer,Standing,0,High_toch_surface
+40,R619,16.833333333333332,Computer,Sitting,0,High_toch_surface
+40,R642,26.53333333333333,Computer,Sitting,0,High_toch_surface
+40,R722,29.450000000000003,Computer,Sitting,0,High_toch_surface
+31.066666666666663,R799,17,Computer,Sitting,0,High_toch_surface
+40,R809,19.700000000000003,Computer,Standing,0,High_toch_surface
+40,R819,21.8,Computer,Sitting,0,High_toch_surface
+20.766666666666666,R857,23.633333333333336,Computer,Sitting,0,High_toch_surface
+40,R923,26.3,Computer,Sitting,0,High_toch_surface
+26.6,H14,16.200000000000003,Computer,Sitting,0,High_toch_surface
+28.85,H25,16.700000000000003,Computer,Standing,0,High_toch_surface
+32.05,H60,15.25,Computer,Sitting,0,High_toch_surface
+30.25,H71,15.25,Computer,Standing,0,High_toch_surface
+28.8,H94,15.700000000000001,Computer,Sitting,0,High_toch_surface
+40,H191,20.95,Computer,Sitting,0,High_toch_surface
+27.5,H272,22.9,Computer,Sitting,0,High_toch_surface
+29.4,H283,27.15,Computer,Standing,0,High_toch_surface
+28.6,H329,28.3,Computer,Sitting,0,High_toch_surface
+29.299999999999997,H359,31.15,Computer,Sitting,0,High_toch_surface
+28.3,H439,28.85,Computer,Sitting,0,High_toch_surface
+40,H524,40,Computer,Sitting,0,High_toch_surface
+40,H535,40,Computer,Standing,0,High_toch_surface
+40,H570,40,Computer,Sitting,0,High_toch_surface
+40,H613,40,Computer,Sitting,0,High_toch_surface
+40,H624,40,Computer,Standing,0,High_toch_surface
+40,H698,40,Computer,Sitting,0,High_toch_surface
+40,H748,40,Computer,Sitting,0,High_toch_surface
+26.950000000000003,H848,20.55,Computer,Standing,0,High_toch_surface
+31.049999999999997,H883,21.4,Computer,Sitting,0,High_toch_surface
+29.35,H932,26,Computer,Sitting,0,High_toch_surface
+29.85,H1019,29.8,Computer,Sitting,0,High_toch_surface
+40,H1100,27.13333333333333,Computer,Sitting,0,High_toch_surface
+40,H1111,26.75,Computer,Standing,0,High_toch_surface
+32.9,H1184,28.6,Computer,Sitting,0,High_toch_surface
+40,H1276,29.5,Computer,Sitting,0,High_toch_surface
+27.166666666666668,R16,20.400000000000002,Phone,Sitting,0,High_toch_surface
+28.133333333333336,R24,20.400000000000002,Phone,Sitting,0,High_toch_surface
+30.299999999999997,R34,25.96666666666667,Phone,Sitting,0,High_toch_surface
+28.099999999999998,R50,22.5,Phone,Sitting,0,High_toch_surface
+26.03333333333333,R60,23.666666666666668,Phone,Sitting,0,High_toch_surface
+22.8,R112,23.5,Phone,Sitting,0,High_toch_surface
+22.166666666666668,R122,22.6,Phone,Sitting,0,High_toch_surface
+32.56666666666667,R142,23.833333333333332,Phone,Sitting,0,High_toch_surface
+30.96666666666667,R152,24.65,Phone,Sitting,0,High_toch_surface
+25.633333333333336,R162,17.5,Phone,Sitting,0,High_toch_surface
+40,R348,40,Phone,Sitting,0,High_toch_surface
+40,R423,40,Phone,Sitting,0,High_toch_surface
+40,R434,40,Phone,Standing,0,High_toch_surface
+40,R456,40,Phone,Sitting,0,High_toch_surface
+40,R467,40,Phone,Standing,0,High_toch_surface
+40,R478,40,Phone,Sitting,0,High_toch_surface
+40,R496,40,Phone,Sitting,0,High_toch_surface
+40,R587,23.46666666666667,Phone,Sitting,0,High_toch_surface
+40,R598,21.76666666666667,Phone,Standing,0,High_toch_surface
+40,R643,26.53333333333333,Phone,Sitting,0,High_toch_surface
+40,R723,29.450000000000003,Phone,Sitting,0,High_toch_surface
+30.26666666666667,R800,17,Phone,Sitting,0,High_toch_surface
+31.133333333333336,R810,19.700000000000003,Phone,Standing,0,High_toch_surface
+40,R820,21.8,Phone,Sitting,0,High_toch_surface
+40,R858,23.633333333333336,Phone,Sitting,0,High_toch_surface
+40,R924,26.3,Phone,Sitting,0,High_toch_surface
+28.35,H15,16.200000000000003,Phone,Sitting,0,High_toch_surface
+27.799999999999997,H26,16.700000000000003,Phone,Standing,0,High_toch_surface
+28.95,H61,15.25,Phone,Sitting,0,High_toch_surface
+27.7,H72,15.25,Phone,Standing,0,High_toch_surface
+30.75,H95,15.700000000000001,Phone,Sitting,0,High_toch_surface
+29.25,H192,20.95,Phone,Sitting,0,High_toch_surface
+28.6,H273,22.9,Phone,Sitting,0,High_toch_surface
+29.066666666666666,H284,27.15,Phone,Standing,0,High_toch_surface
+27.3,H330,28.3,Phone,Sitting,0,High_toch_surface
+29.549999999999997,H360,31.15,Phone,Sitting,0,High_toch_surface
+40,H440,28.85,Phone,Sitting,0,High_toch_surface
+40,H525,40,Phone,Sitting,0,High_toch_surface
+40,H536,40,Phone,Standing,0,High_toch_surface
+40,H571,40,Phone,Sitting,0,High_toch_surface
+40,H614,40,Phone,Sitting,0,High_toch_surface
+33.8,H625,40,Phone,Standing,0,High_toch_surface
+32.8,H699,40,Phone,Sitting,0,High_toch_surface
+30.866666666666664,H749,40,Phone,Sitting,0,High_toch_surface
+29.799999999999997,H838,13.35,Phone,Sitting,0,High_toch_surface
+30.8,H849,20.55,Phone,Standing,0,High_toch_surface
+33.3,H884,21.4,Phone,Sitting,0,High_toch_surface
+28.9,H933,26,Phone,Sitting,0,High_toch_surface
+29.049999999999997,H1020,29.8,Phone,Sitting,0,High_toch_surface
+31.700000000000003,H1101,27.13333333333333,Phone,Sitting,0,High_toch_surface
+40,H1112,26.75,Phone,Standing,0,High_toch_surface
+32.03333333333333,H1185,28.6,Phone,Sitting,0,High_toch_surface
+40,H1277,29.5,Phone,Sitting,0,High_toch_surface
+26.833333333333332,R17,20.400000000000002,Chair,Sitting,0,High_toch_surface
+25.5,R25,20.400000000000002,Chair,Sitting,0,High_toch_surface
+28.46666666666667,R35,25.96666666666667,Chair,Sitting,0,High_toch_surface
+25.366666666666664,R51,22.5,Chair,Sitting,0,High_toch_surface
+25.6,R61,23.666666666666668,Chair,Sitting,0,High_toch_surface
+20.333333333333332,R113,23.5,Chair,Sitting,0,High_toch_surface
+27.299999999999997,R123,22.6,Chair,Sitting,0,High_toch_surface
+23.400000000000002,R143,23.833333333333332,Chair,Sitting,0,High_toch_surface
+29.366666666666664,R163,17.5,Chair,Sitting,0,High_toch_surface
+27.8,R349,40,Chair,Sitting,0,High_toch_surface
+40,R424,40,Chair,Sitting,0,High_toch_surface
+40,R435,40,Chair,Standing,0,High_toch_surface
+40,R457,40,Chair,Sitting,0,High_toch_surface
+40,R468,40,Chair,Standing,0,High_toch_surface
+40,R479,40,Chair,Sitting,0,High_toch_surface
+40,R588,23.46666666666667,Chair,Sitting,0,High_toch_surface
+40,R599,21.76666666666667,Chair,Standing,0,High_toch_surface
+40,R621,16.833333333333332,Chair,Sitting,0,High_toch_surface
+40,R644,26.53333333333333,Chair,Sitting,0,High_toch_surface
+40,R724,29.450000000000003,Chair,Sitting,0,High_toch_surface
+40,R801,17,Chair,Sitting,0,High_toch_surface
+40,R811,19.700000000000003,Chair,Standing,0,High_toch_surface
+40,R859,23.633333333333336,Chair,Sitting,0,High_toch_surface
+29.633333333333336,R925,26.3,Chair,Sitting,0,High_toch_surface
+31.25,H16,16.200000000000003,Chair,Sitting,0,High_toch_surface
+29.7,H27,16.700000000000003,Chair,Standing,0,High_toch_surface
+29.7,H62,15.25,Chair,Sitting,0,High_toch_surface
+30.9,H73,15.25,Chair,Standing,0,High_toch_surface
+28.95,H96,15.700000000000001,Chair,Sitting,0,High_toch_surface
+40,H193,20.95,Chair,Sitting,0,High_toch_surface
+30.45,H274,22.9,Chair,Sitting,0,High_toch_surface
+23.1,H285,27.15,Chair,Standing,0,High_toch_surface
+27.65,H331,28.3,Chair,Sitting,0,High_toch_surface
+28.15,H361,31.15,Chair,Sitting,0,High_toch_surface
+29.1,H441,28.85,Chair,Sitting,0,High_toch_surface
+40,H526,40,Chair,Sitting,0,High_toch_surface
+40,H537,40,Chair,Standing,0,High_toch_surface
+40,H572,40,Chair,Sitting,0,High_toch_surface
+40,H615,40,Chair,Sitting,0,High_toch_surface
+40,H626,40,Chair,Standing,0,High_toch_surface
+31.9,H850,20.55,Chair,Standing,0,High_toch_surface
+30.95,H885,21.4,Chair,Sitting,0,High_toch_surface
+32.05,H923,25.9,Chair,Sitting,0,High_toch_surface
+28.95,H934,26,Chair,Sitting,0,High_toch_surface
+29.9,H1021,29.8,Chair,Sitting,0,High_toch_surface
+40,H1102,27.13333333333333,Chair,Sitting,0,High_toch_surface
+40,H1113,26.75,Chair,Standing,0,High_toch_surface
+28.75,H1186,28.6,Chair,Sitting,0,High_toch_surface
+30.55,H1278,29.5,Chair,Sitting,0,High_toch_surface
+31.433333333333334,R19,20.400000000000002,Near settling plate,Sitting,0,Plates
+28.566666666666666,R20,20.400000000000002,Far settling plate,Sitting,0,Plates
+40,R27,20.400000000000002,Near settling plate,Sitting,0,Plates
+40,R28,20.400000000000002,Far settling plate,Sitting,0,Plates
+40,R37,25.96666666666667,Near settling plate,Sitting,0,Plates
+30.65,R38,25.96666666666667,Far settling plate,Sitting,0,Plates
+40,R53,22.5,Near settling plate,Sitting,0,Plates
+40,R54,22.5,Far settling plate,Sitting,0,Plates
+30.066666666666666,R63,23.666666666666668,Near settling plate,Sitting,0,Plates
+40,R64,23.666666666666668,Far settling plate,Sitting,0,Plates
+40,R115,23.5,Near settling plate,Sitting,0,Plates
+26,R116,23.5,Far settling plate,Sitting,0,Plates
+40,R125,22.6,Near settling plate,Sitting,0,Plates
+40,R126,22.6,Far settling plate,Sitting,0,Plates
+40,R145,23.833333333333332,Near settling plate,Sitting,0,Plates
+40,R146,23.833333333333332,Far settling plate,Sitting,0,Plates
+40,R155,24.65,Near settling plate,Sitting,0,Plates
+40,R156,24.65,Far settling plate,Sitting,0,Plates
+40,R165,17.5,Near settling plate,Sitting,0,Plates
+21.8,R166,17.5,Far settling plate,Sitting,0,Plates
+40,R351,40,Near settling plate,Sitting,0,Plates
+40,R352,40,Far settling plate,Sitting,0,Plates
+40,R426,40,Near settling plate,Sitting,0,Plates
+40,R427,40,Far settling plate,Sitting,0,Plates
+40,R437,40,Near settling plate,Standing,0,Plates
+40,R459,40,Near settling plate,Sitting,0,Plates
+32.05,R470,40,Near settling plate,Standing,0,Plates
+40,R471,40,Far settling plate,Standing,0,Plates
+40,R481,40,Near settling plate,Sitting,0,Plates
+40,R482,40,Far settling plate,Sitting,0,Plates
+31.633333333333336,R499,40,Near settling plate,Sitting,0,Plates
+40,R500,40,Far settling plate,Sitting,0,Plates
+40,R590,23.46666666666667,Near settling plate,Sitting,0,Plates
+40,R601,21.76666666666667,Near settling plate,Standing,0,Plates
+40,R602,21.76666666666667,Far settling plate,Standing,0,Plates
+40,R623,16.833333333333332,Near settling plate,Sitting,0,Plates
+40,R647,26.53333333333333,Far settling plate,Sitting,0,Plates
+40,R726,29.450000000000003,Near settling plate,Sitting,0,Plates
+40,R727,29.450000000000003,Far settling plate,Sitting,0,Plates
+40,R803,17,Near settling plate,Sitting,0,Plates
+40,R804,17,Far settling plate,Sitting,0,Plates
+40,R814,19.700000000000003,Far settling plate,Standing,0,Plates
+40,R823,21.8,Near settling plate,Sitting,0,Plates
+40,R824,21.8,Far settling plate,Sitting,0,Plates
+40,R861,23.633333333333336,Near settling plate,Sitting,0,Plates
+40,R862,23.633333333333336,Far settling plate,Sitting,0,Plates
+31.46666666666667,R927,26.3,Near settling plate,Sitting,0,Plates
+40,H18,16.200000000000003,Near settling plate,Sitting,0,Plates
+40,H19,16.200000000000003,Far settling plate,Sitting,0,Plates
+32.25,H29,16.700000000000003,Near settling plate,Standing,0,Plates
+40,H30,16.700000000000003,Far settling plate,Standing,0,Plates
+31.366666666666664,H64,15.25,Near settling plate,Sitting,0,Plates
+40,H65,15.25,Far settling plate,Sitting,0,Plates
+33.05,H75,15.25,Near settling plate,Standing,0,Plates
+40,H76,15.25,Far settling plate,Standing,0,Plates
+29.6,H98,15.700000000000001,Near settling plate,Sitting,0,Plates
+29.75,H99,15.700000000000001,Far settling plate,Sitting,0,Plates
+40,H195,20.95,Near settling plate,Sitting,0,Plates
+40,H276,22.9,Near settling plate,Sitting,0,Plates
+40,H277,22.9,Far settling plate,Sitting,0,Plates
+40,H287,27.15,Near settling plate,Standing,0,Plates
+40,H288,27.15,Far settling plate,Standing,0,Plates
+31.3,H333,28.3,Near settling plate,Sitting,0,Plates
+40,H334,28.3,Far settling plate,Sitting,0,Plates
+40,H363,31.15,Near settling plate,Sitting,0,Plates
+40,H364,31.15,Far settling plate,Sitting,0,Plates
+40,H443,28.85,Near settling plate,Sitting,0,Plates
+40,H444,28.85,Far settling plate,Sitting,0,Plates
+40,H528,40,Near settling plate,Sitting,0,Plates
+40,H529,40,Far settling plate,Sitting,0,Plates
+40,H539,40,Near settling plate,Standing,0,Plates
+40,H540,40,Far settling plate,Standing,0,Plates
+40,H574,40,Near settling plate,Sitting,0,Plates
+32.3,H575,40,Far settling plate,Sitting,0,Plates
+40,H617,40,Near settling plate,Sitting,0,Plates
+40,H618,40,Far settling plate,Sitting,0,Plates
+40,H628,40,Near settling plate,Standing,0,Plates
+40,H629,40,Far settling plate,Standing,0,Plates
+40,H702,40,Near settling plate,Sitting,0,Plates
+40,H703,40,Far settling plate,Sitting,0,Plates
+40,H752,40,Near settling plate,Sitting,0,Plates
+40,H753,40,Far settling plate,Sitting,0,Plates
+40,H841,13.35,Near settling plate,Sitting,0,Plates
+40,H842,13.35,Far settling plate,Sitting,0,Plates
+40,H852,20.55,Near settling plate,Standing,0,Plates
+40,H853,20.55,Far settling plate,Standing,0,Plates
+40,H887,21.4,Near settling plate,Sitting,0,Plates
+40,H925,25.9,Near settling plate,Sitting,0,Plates
+40,H926,25.9,Far settling plate,Sitting,0,Plates
+40,H937,26,Far settling plate,Sitting,0,Plates
+40,H1023,29.8,Near settling plate,Sitting,0,Plates
+40,H1024,29.8,Far settling plate,Sitting,0,Plates
+40,H1104,27.13333333333333,Near settling plate,Sitting,0,Plates
+40,H1105,27.13333333333333,Far settling plate,Sitting,0,Plates
+40,H1115,26.75,Near settling plate,Standing,0,Plates
+40,H1116,26.75,Far settling plate,Standing,0,Plates
+40,H1161,27.5,Near settling plate,Sitting,0,Plates
+40,H1162,27.5,Far settling plate,Sitting,0,Plates
+40,H1188,28.6,Near settling plate,Sitting,0,Plates
+40,H1189,28.6,Far settling plate,Sitting,0,Plates
+40,H1280,29.5,Near settling plate,Sitting,0,Plates
+40,H1281,29.5,Far settling plate,Sitting,0,Plates
